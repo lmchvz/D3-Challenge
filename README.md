@@ -1,4 +1,4 @@
-# D3-challenge
+## D3-challenge
 
 ### Project Description:
 The goal of this project was to create a responsive and interactive plot to explore the correlation between health risk factors and demographics. 
